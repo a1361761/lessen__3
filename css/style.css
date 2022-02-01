@@ -1,0 +1,63 @@
+.text,.poem {
+   color: saddlebrown;
+}
+
+.red {
+   color: red;
+}
+
+.yellow {
+   color: yellow;
+}
+
+.blue {
+   color: blue;
+}
+
+.green {
+   color: green;
+}
+
+.orange {
+   color: orange;
+}
+
+.aqua {
+   color: aqua;
+}
+
+.brown {
+   color: brown;
+}
+
+.fuchsia {
+   color: fuchsia;
+}
+
+.gray {
+   color: gray;
+}
+
+.pink {
+   color: pink;
+}
+
+div span{
+   color: red;
+}
+
+[class*="__text"] {
+	color: salmon;
+}
+
+.color > p {
+	color: blueviolet;
+}
+
+.next-text ~ p {
+   color: chartreuse;
+}
+
+div li {
+   color: red;
+}
